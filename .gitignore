@@ -1,0 +1,5 @@
+#ignore any and all files with the .log
+*.log
+
+#ignore any and all files with the named Temp
+temp/
